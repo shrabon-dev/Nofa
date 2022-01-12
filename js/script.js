@@ -7,12 +7,3 @@ $(".slick-doctor").slick(
         nextArrow:'<i class="fas fa-chevron-right next"></i>',
     }
 );
-var typed = new Typed('.tst', {
-    strings: ["How can I help you.", "Are you stay here"
-               ,"Welcome o our Chamber"],
-    typeSpeed: 40,
-    loop: true,
-    backSpeed: 40,
-    backDelay: 1500,
-    startDelay: 1500,
-  });
